@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Electron-React-Example
+
+This project was based on [John Dyer's tutorial](https://medium.com/@johndyer24/building-a-production-electron-create-react-app-application-with-shared-code-using-electron-builder-c1f70f0e2649).
+Some configuration was changed related to access to the main process was taken form the oficial [Electron Tutorials](https://www.electronjs.org/docs/latest/tutorial/tutorial-preload)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
